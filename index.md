@@ -2,6 +2,32 @@
 
 ## Projects
 
+### Sales Dashboard - October 2025
+
+Personal project to analyze a public dataset and create a dashboard showcasing the analysis.
+Used a sample sales dataset from Kaggle to create a dashboard on sales trends.
+Used Microsoft Power BI for data visualization.
+
+![Sales Dashboard](/Images/SalesDashboardPreview.png)
+
+<br>
+
+### Enterprise Resource Planning Simulation - February 2021 - May 2021
+
+Worked in a team of 4 over 10 weeks using an online ERPsim to simulate running a business and operating a firm
+in a reselling context. This involved interacting with suppliers and customers by sending orders, transferring 
+products to regions, and completing the whole end-to-end business cycle.
+
+Using the ERP data, each simulated company (team of students) would analyze the information to make business decisions
+and ensure the profibility of their operations. 
+
+Both Microsoft Excel and Tableau were heavily used to excute customized reports, draw informed conclusions,
+and translate those into actionable business strategies.
+
+![ERP Simulation](/Images/ERP_SimulationTableauPreview.png)
+
+<br>
+
 ### [DND Map Maker](https://github.com/TheJMaster28/DND-DM-Map-Maker) - February 2021 - May 2021
 
 Worked in a team of 6 using Unity to create a tool for Dungeons & Dragons players to build
